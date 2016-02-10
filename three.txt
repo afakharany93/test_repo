@@ -1,3 +1,4 @@
 third text
 first change
+	change in the b1 branch
 second change in master
